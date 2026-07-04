@@ -1,4 +1,4 @@
-# srms
+# Student Record Management System
 
 
 # Role-Based Student Record Management System
